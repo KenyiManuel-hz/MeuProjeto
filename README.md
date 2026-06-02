@@ -1,2 +1,3 @@
-# MeuProjeto
-Trabalho de Java(com Jframe)
+# Estudos da 42SP - Libft
+
+
